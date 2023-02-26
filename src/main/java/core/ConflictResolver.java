@@ -28,12 +28,9 @@ public class ConflictResolver {
 
             addTaskToDateMap(st, conflictMap, task);
         }
-        System.out.println("Begin " + begin.getTime());
-        System.out.println("End " + end.getTime());
         Map<String, Task> map = new HashMap<String, Task>();
         while (begin.getTime().before(end.getTime())) {
             Date key = begin.getTime();
-
             List<Task> list = conflictMap.get(key);
             String mapKey = getMapKey(list);
             if (!map.containsKey(mapKey)) {
