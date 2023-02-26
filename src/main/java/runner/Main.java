@@ -6,7 +6,7 @@ import static utils.FileUtils.readFromFile;
 
 public class Main {
     public static void main(String args[]){
-        List<String> l = new ConflictResolver().process(readFromFile("test_cases/atlas.txt"));
+        List<String> l = new ConflictResolver().process(readFromFile("test_cases/lassy.txt"));
         l.stream().forEach(System.out::println);
     }
 }

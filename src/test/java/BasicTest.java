@@ -27,4 +27,10 @@ public class BasicTest {
         List<String> l = new ConflictResolver().process(readFromFile("test_cases/cassie.txt"));
         assertEquals(11, l.size());
     }
+
+    @Test
+    public void testLassyApplication() {
+        List<String> l = new ConflictResolver().process(readFromFile("test_cases/lassy.txt"));
+        assertEquals(17, l.size());
+    }
 }
