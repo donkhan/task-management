@@ -2,11 +2,12 @@ package core;
 
 import task.Task;
 
+import java.text.SimpleDateFormat;
 import java.util.*;
 
 public class ConflictResolver {
 
-    public List<Task> process(List<Task> tasks) {
+    public List<String> process(List<Task> tasks) {
 
         Map<Date, List<Task>> conflictMap = new HashMap<>();
         GregorianCalendar begin = new GregorianCalendar();
@@ -28,35 +29,27 @@ public class ConflictResolver {
 
             addTaskToDateMap(st, conflictMap, task);
         }
-        Map<String, Task> map = new HashMap<String, Task>();
+        Date skey = begin.getTime();
+        String os = getMapKey(conflictMap.get(skey));
+        SimpleDateFormat sdf = new SimpleDateFormat("dd-MMM-yyyy");
+        List<String> orderedList = new ArrayList<>();
+        String ns = "";
+
         while (begin.getTime().before(end.getTime())) {
             Date key = begin.getTime();
             List<Task> list = conflictMap.get(key);
-            String mapKey = getMapKey(list);
-            if (!map.containsKey(mapKey)) {
-                GregorianCalendar g1 = new GregorianCalendar();
-                g1.setTime(key);
-                GregorianCalendar g2 = new GregorianCalendar();
-                g2.setTime(key);
-                Task t = new Task(mapKey, g1, g2);
-                map.put(mapKey, t);
-            } else {
-                Task t = map.get(mapKey);
-                if (t.startDate.getTime().after(key)) {
-                    t.startDate.setTime(key);
-                }
-                if (t.endDate.getTime().before(key)) {
-                    t.endDate.setTime(key);
-                }
+            ns = getMapKey(list);
+            if(!ns.equals(os)){
+                GregorianCalendar gc = new GregorianCalendar();
+                gc.setTime(key);
+                gc.add(Calendar.DATE,-1);
+                orderedList.add(sdf.format(skey) + "  " + sdf.format(gc.getTime())  + "   " + os);
+                os = ns;
+                skey = key;
             }
-            begin.add(Calendar.DATE, 1);
+            begin.add(Calendar.DATE,1);
         }
-
-        List<Task> orderedList = new ArrayList<>();
-        Iterator<Task> i = map.values().iterator();
-        while (i.hasNext()) {
-            orderedList.add(i.next());
-        }
+        orderedList.add(sdf.format(skey) + "  " + sdf.format(end.getTime())  + "   " + os);
         return orderedList;
     }
 
