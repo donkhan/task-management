@@ -104,11 +104,12 @@ public class Main {
                 }
             }
         }
-
+        List<Task> orderedList = new ArrayList<>();
         Iterator<Task> i = map.values().iterator();
         while(i.hasNext()){
-            System.out.println(i.next());
+            orderedList.add(i.next());
         }
+        orderedList.stream().sorted().forEach(System.out::println);
     }
 
     private static String getMapKey(List<Task> list){

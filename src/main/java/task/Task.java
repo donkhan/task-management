@@ -1,7 +1,8 @@
 package task;
+import java.text.SimpleDateFormat;
 import java.util.*;
 
-public class Task {
+public class Task implements Comparable<Task>{
 
     public String name;
     public GregorianCalendar startDate;
@@ -14,6 +15,13 @@ public class Task {
     }
 
     public String toString(){
-        return name +  "  " + startDate.getTime() + "  " + endDate.getTime();
+        SimpleDateFormat sdf = new SimpleDateFormat("dd-MMM-yyyy");
+        return name +  "  " + sdf.format(startDate.getTime()) + "  " + sdf.format(endDate.getTime());
+    }
+
+    @Override
+    public int compareTo(Task o) {
+        if(o.startDate.after(startDate)) return -1;
+        return 1;
     }
 }
