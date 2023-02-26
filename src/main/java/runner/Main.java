@@ -63,29 +63,34 @@ public class Main {
     }
     public static void main(String args[]){
         List<Task> tasks = new ArrayList<>();
-        /*
-        tasks.add(new Task("P1",getCalendar(2,1,2023),getCalendar(2,28,2023)));
-        tasks.add(new Task("P2",getCalendar(2,15,2023),getCalendar(3,15,2023)));
-        tasks.add(new Task("P3",getCalendar(2,13,2023),getCalendar(2,25,2023)));
-        */
         readFromFile(tasks);
         Map<Date,List<Task>> conflictMap = new HashMap<>();
+        GregorianCalendar begin = new GregorianCalendar();
+        GregorianCalendar end = new GregorianCalendar();
+
         for(Task task : tasks){
             GregorianCalendar st = (GregorianCalendar) task.startDate.clone();
             GregorianCalendar en = (GregorianCalendar) task.endDate.clone();
+            if(begin.getTime().after(st.getTime())){
+                begin.setTime(st.getTime());
+            }
+            if(end.getTime().before(en.getTime())){
+                end.setTime(en.getTime());
+            }
             while(st.getTime().before(en.getTime())){
                 addTaskToDateMap(st,conflictMap,task);
                 st.add(Calendar.DATE,1);
             }
+
             addTaskToDateMap(st,conflictMap,task);
         }
-
+        System.out.println("Begin " + begin.getTime());
+        System.out.println("End " + end.getTime());
         Map<String,Task> map = new HashMap<String, Task>();
-        Iterator<Date> iterator = conflictMap.keySet().iterator();;
-        while(iterator.hasNext()){
-            Date key = iterator.next();
+        while(begin.getTime().before(end.getTime())){
+            Date key = begin.getTime();
+
             List<Task> list = conflictMap.get(key);
-            if(list.size() == 1) continue;;
             String mapKey = getMapKey(list);
             if(!map.containsKey(mapKey)){
                 GregorianCalendar g1 = new GregorianCalendar();
@@ -103,6 +108,7 @@ public class Main {
                     t.endDate.setTime(key);
                 }
             }
+            begin.add(Calendar.DATE,1);
         }
         List<Task> orderedList = new ArrayList<>();
         Iterator<Task> i = map.values().iterator();
