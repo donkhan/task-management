@@ -18,6 +18,7 @@ public class FileUtils {
             String s = "";
             while((s = reader.readLine()) != null){
                 StringTokenizer tokenizer = new StringTokenizer(s,",");
+                if(!tokenizer.hasMoreTokens()) continue;
                 String taskName = "";
                 taskName = tokenizer.nextToken();
                 String startDate = tokenizer.nextToken();
