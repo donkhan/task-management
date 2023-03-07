@@ -64,6 +64,7 @@ public class ConflictResolver {
 
     private String getMapKey(List<Task> list) {
         String s = "";
+        if(list == null) return s;
         for (Task t : list) {
             s = s + t.name + "-";
         }
