@@ -4,11 +4,11 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 public class Output {
 
-    String application;
-    String env;
-    Date startDate;
-    GregorianCalendar endDate;
-    String tasks;
+    private String application;
+    private String env;
+    private Date startDate;
+    private GregorianCalendar endDate;
+    private String tasks;
 
     private String sep = ",";
 
