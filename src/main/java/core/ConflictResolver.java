@@ -24,7 +24,10 @@ public class ConflictResolver {
         Map<Date, List<Task>> conflictMap = new HashMap<>();
         GregorianCalendar begin = new GregorianCalendar();
         GregorianCalendar end = new GregorianCalendar();
-
+        begin.set(Calendar.HOUR_OF_DAY,1);
+        begin.set(Calendar.MINUTE,0);
+        begin.set(Calendar.SECOND,0);
+        begin.set(Calendar.MILLISECOND,0);
         for (Task task : tasks) {
             GregorianCalendar st = (GregorianCalendar) task.startDate.clone();
             GregorianCalendar en = (GregorianCalendar) task.endDate.clone();
@@ -43,6 +46,11 @@ public class ConflictResolver {
         }
         Date skey = begin.getTime();
         String os = getMapKey(conflictMap.get(skey));
+        while(os.equals("")){
+            begin.add(Calendar.DATE,1);
+            skey = begin.getTime();
+            os = getMapKey(conflictMap.get(skey));
+        }
         List<Output> orderedList = new ArrayList<>();
         String ns = "";
 
@@ -61,8 +69,9 @@ public class ConflictResolver {
             }
             begin.add(Calendar.DATE,1);
         }
-        if(this.moreTasks(os))
-            orderedList.add(new Output(application,env,skey,end,os));
+        if(this.moreTasks(os)) {
+            orderedList.add(new Output(application, env, skey, end, os));
+        }
         return orderedList;
     }
 

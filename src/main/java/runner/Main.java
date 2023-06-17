@@ -11,17 +11,19 @@ import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String args[]) {
-        specific();
+        //specific();
+        all();
     }
 
     private static void specific(){
-        String[] applications = {"CASSIE"};
+        String[] applications = {"CADH"};
         solve(applications);
     }
 
     private static void all(){
         String[] applications = {"ATLAS", "CADH", "Call Log", "CASSIE", "CMS", "CPAR", "FLOSSY", "HH", "iHUB",
-                "LASSY", "Numero", "Oracle AR & Financials", "Over 75 Refunds", "QASSIE", "SASSIE", "SOA", "TVLEO", "Website"};
+                "LASSY", "Numero", "Oracle AR & Financials", "Over 75 Refunds", "QASSIE", "SASSIE", "SOA",
+                "TVLEO", "Website"};
         solve(applications);
     }
 
