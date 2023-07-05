@@ -5,13 +5,20 @@ import java.util.*;
 public class Task implements Comparable<Task>{
 
     public String name;
+
+    public String desc;
     public GregorianCalendar startDate;
     public GregorianCalendar endDate;
 
-    public Task(String name, GregorianCalendar startDate, GregorianCalendar endDate){
+    public Task(String name, GregorianCalendar startDate, GregorianCalendar endDate) {
+        this(name,startDate,endDate,"");
+    }
+
+    public Task(String name, GregorianCalendar startDate, GregorianCalendar endDate, String desc){
         this.name = name;
         this.startDate = startDate;
         this.endDate = endDate;
+        this.desc = desc;
     }
 
     public String toString(){

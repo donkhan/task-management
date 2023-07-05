@@ -10,6 +10,8 @@ import java.io.*;
 import java.util.stream.Collectors;
 
 public class Main {
+
+    public static Map<String,String> descMap = new HashMap<>();
     public static void main(String args[]) {
         //specific();
         all();
@@ -48,7 +50,7 @@ public class Main {
                         while ((line = reader.readLine()) != null) {
                             StringTokenizer tokenizer = new StringTokenizer(line, ",");
                             String taskName = tokenizer.nextToken();
-                            tokenizer.nextToken();// Description
+                            String desc = tokenizer.nextToken();// Description
                             String appName = tokenizer.nextToken().trim();
                             if (!appName.equals(applicationName)) continue;
                             tokenizer.nextToken(); // PM
@@ -60,6 +62,7 @@ public class Main {
 
                             if (taskName.equals("TBD")) continue;
                             Task task = new Task(taskName, CalendarUtils.getDateFromString(startDate), CalendarUtils.getDateFromString(endDate));
+                            descMap.put(taskName,desc);
                             taskList.add(task);
                         }
                         if (debug) {
