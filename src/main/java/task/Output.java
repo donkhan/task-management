@@ -34,7 +34,7 @@ public class Output {
 
         while(tokenizer.hasMoreTokens()){
             String name = tokenizer.nextToken();
-            x = x + name  + Main.descMap.get(name.trim()) + " &";
+            x = x + " RFC " + name  + Main.descMap.get(name.trim()) + " &";
         }
         s = s + sep + "No issues/conflicts " + x.substring(0,x.length()-1) + " can co exist";
         return s;
