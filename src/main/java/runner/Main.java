@@ -36,6 +36,10 @@ public class Main {
             String fName = System.getProperty("java.io.tmpdir") + "output.csv";
             System.out.println(fName);
             PrintStream fos = new PrintStream(new FileOutputStream(fName));
+            String conflictName = System.getProperty("java.io.tmpdir") + "conflict.csv";
+            System.out.println(conflictName);
+            PrintStream conflictStream = new PrintStream(new FileOutputStream(conflictName));
+
             for (String applicationName : applications) {
                 for (int i = 0; i < envs.length; i++) {
                     String env = envs[i];
@@ -75,6 +79,20 @@ public class Main {
                             if(l.size() != 0) {
                                 l.stream().forEach(System.out::println);
                                 l.stream().forEach(s -> fos.println(s));
+                                for(int r = 0;r < l.size();r++) {
+                                    List<String> tasks = l.get(r).getTasks();
+                                    for (int x = 0; x < tasks.size(); x++) {
+                                        String suffix = applicationName + "," + env + ",";
+                                        String p = "";
+                                        for (int y = 0; y < tasks.size(); y++) {
+                                            if (tasks.get(x) != tasks.get(y)) {
+                                                p = p + tasks.get(y) + "&";
+                                            }
+                                        }
+                                        conflictStream.println(suffix + tasks.get(x) + " Conflict with " + p.substring(0, p.length() - 1));
+                                        System.out.println(suffix + tasks.get(x) + " Conflict with " + p.substring(0, p.length() - 1));
+                                    }
+                                }
                                 System.out.println("------------------------------------------------------------------------------");
                             }
                         }

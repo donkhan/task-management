@@ -46,5 +46,13 @@ public class Output {
         return days + 1;
     }
 
+    public List<String> getTasks(){
+        StringTokenizer tokenizer = new StringTokenizer(tasks, "|");
+        List<String> t = new ArrayList<>();
+        while(tokenizer.hasMoreTokens()){
+            t.add(tokenizer.nextToken());
+        }
+        return t;
+    }
 
 }
