@@ -27,8 +27,8 @@ public class Output {
 
     public String toString(){
         long diff = findDiff(endDate,startDate);
-        String s =  application + sep + env + sep + sdf.format(startDate) + sep + sdf.format(endDate.getTime()) + sep + diff + sep
-                + application + "[" + env.toUpperCase() + "] is overlapping for " + diff + " days btw " + tasks;
+        String s = application + sep + env + sep + application + "[" + env.toUpperCase() + "] is overlapping for " + diff + " days btw " + tasks
+                + sep + sdf.format(startDate) + sep + sdf.format(endDate.getTime());
         String x = "";
         StringTokenizer tokenizer = new StringTokenizer(tasks, "|");
 
