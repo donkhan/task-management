@@ -79,20 +79,7 @@ public class Main {
                             if(l.size() != 0) {
                                 l.stream().forEach(System.out::println);
                                 l.stream().forEach(s -> fos.println(s));
-                                for(int r = 0;r < l.size();r++) {
-                                    List<String> tasks = l.get(r).getTasks();
-                                    for (int x = 0; x < tasks.size(); x++) {
-                                        String suffix = applicationName + "," + env + ",";
-                                        String p = "";
-                                        for (int y = 0; y < tasks.size(); y++) {
-                                            if (tasks.get(x) != tasks.get(y)) {
-                                                p = p + tasks.get(y) + "&";
-                                            }
-                                        }
-                                        conflictStream.println(suffix + tasks.get(x) + " Conflict with " + p.substring(0, p.length() - 1));
-                                        System.out.println(suffix + tasks.get(x) + " Conflict with " + p.substring(0, p.length() - 1));
-                                    }
-                                }
+                                printConflicts(l,  applicationName,  env,  conflictStream);
                                 System.out.println("------------------------------------------------------------------------------");
                             }
                         }
@@ -105,6 +92,23 @@ public class Main {
             fos.close();
         }catch(Exception e){
 
+        }
+    }
+
+    private static void printConflicts(List<Output> l, String applicationName, String env, PrintStream conflictStream){
+        for(int r = 0;r < l.size();r++) {
+            List<String> tasks = l.get(r).getTasks();
+            for (int x = 0; x < tasks.size(); x++) {
+                String suffix = applicationName + "," + env + ",";
+                String p = "";
+                for (int y = 0; y < tasks.size(); y++) {
+                    if (tasks.get(x) != tasks.get(y)) {
+                        p = p + tasks.get(y) + "&";
+                    }
+                }
+                conflictStream.println(suffix + tasks.get(x) + " Conflict with " + p.substring(0, p.length() - 1));
+                System.out.println(suffix + tasks.get(x) + " Conflict with " + p.substring(0, p.length() - 1));
+            }
         }
     }
 
