@@ -1,87 +1,105 @@
-MS03,IT Upgrade,CASSIE,Satvinder Dhillon | Kath Ferris,08-Jun-23,12-Oct-23,13-Oct-23,05-Dec-23,15-Dec-23,24-Jan-24,N/A,N/A,17-Oct-23,13-Nov-23,07-Feb-24,19-Feb-24,N/A,N/A,N/A,N/A
-MS03,IT Upgrade,SASSIE,Satvinder Dhillon | Kath Ferris,08-Jun-23,12-Oct-23,13-Oct-23,05-Dec-23,15-Dec-23,24-Jan-24,N/A,N/A,17-Oct-23,13-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A
-MS03,IT Upgrade,QASSIE,Satvinder Dhillon | Kath Ferris,08-Jun-23,12-Oct-23,13-Oct-23,05-Dec-23,15-Dec-23,24-Jan-24,N/A,N/A,17-Oct-23,13-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A
-MS03,IT Upgrade,LASSY,Satvinder Dhillon | Kath Ferris,N/A,N/A,13-Oct-23,05-Dec-23,15-Dec-23,24-Jan-24,N/A,N/A,17-Oct-23,13-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A
-MS03,IT Upgrade,ATLAS,Satvinder Dhillon | Kath Ferris,N/A,N/A,13-Oct-23,05-Dec-23,15-Dec-23,24-Jan-24,N/A,N/A,17-Oct-23,13-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A
-MS03,IT Upgrade,Numero,Satvinder Dhillon | Kath Ferris,N/A,N/A,13-Oct-23,05-Dec-23,15-Dec-23,24-Jan-24,N/A,N/A,17-Oct-23,13-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A
-MS03,IT Upgrade,SOA,Satvinder Dhillon | Kath Ferris,N/A,N/A,13-Oct-23,05-Dec-23,15-Dec-23,24-Jan-24,N/A,N/A,17-Oct-23,13-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A
-MS03,IT Upgrade,Website,Satvinder Dhillon | Kath Ferris,N/A,N/A,13-Oct-23,05-Dec-23,15-Dec-23,24-Jan-24,N/A,N/A,17-Oct-23,13-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A
-MS03,IT Upgrade,HH,Satvinder Dhillon | Kath Ferris,N/A,N/A,13-Oct-23,05-Dec-23,15-Dec-23,24-Jan-24,N/A,N/A,17-Oct-23,13-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A
-MS03,IT Upgrade,FLOSSY,Satvinder Dhillon | Kath Ferris,N/A,N/A,N/A,N/A,15-Dec-23,24-Jan-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-MS03,IT Upgrade,CPAR,Satvinder Dhillon | Kath Ferris,N/A,N/A,N/A,N/A,15-Dec-23,24-Jan-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-MS03,IT Upgrade,iHUB,Satvinder Dhillon | Kath Ferris,N/A,N/A,13-Oct-23,05-Dec-23,15-Dec-23,24-Jan-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-MS06,IT Upgrade,ATLAS,Satvinder Dhillon | Prem Balasingam,N/A,N/A,02-Jun-23,28-Jun-23,08-Aug-23,24-Aug-23,N/A,N/A,N/A,N/A,30-Oct-23,15-Nov-23,N/A,N/A,N/A,N/A
-MS06,IT Upgrade,LASSY,Satvinder Dhillon | Prem Balasingam,N/A,N/A,02-Jun-23,28-Jun-23,08-Aug-23,24-Aug-23,N/A,N/A,N/A,N/A,30-Oct-23,15-Nov-23,N/A,N/A,N/A,N/A
-MS06,IT Upgrade,iHUB,Satvinder Dhillon | Prem Balasingam,N/A,N/A,02-Jun-23,28-Jun-23,08-Aug-23,24-Aug-23,N/A,N/A,N/A,N/A,30-Oct-23,15-Nov-23,N/A,N/A,N/A,N/A
-MS06,IT Upgrade,Website,Satvinder Dhillon | Prem Balasingam,N/A,N/A,02-Jun-23,28-Jun-23,08-Aug-23,24-Aug-23,N/A,N/A,N/A,N/A,30-Oct-23,15-Nov-23,N/A,N/A,N/A,N/A
-MS06,IT Upgrade,Numero,Satvinder Dhillon | Prem Balasingam,N/A,N/A,02-Jun-23,28-Jun-23,08-Aug-23,24-Aug-23,N/A,N/A,N/A,N/A,30-Oct-23,15-Nov-23,N/A,N/A,N/A,N/A
-MS06,IT Upgrade,CASSIE,Satvinder Dhillon | Prem Balasingam,N/A,N/A,02-Jun-23,28-Jun-23,08-Aug-23,24-Aug-23,N/A,N/A,N/A,N/A,30-Oct-23,15-Nov-23,N/A,N/A,N/A,N/A
-MS06,IT Upgrade,SASSIE,Satvinder Dhillon | Prem Balasingam,N/A,N/A,02-Jun-23,28-Jun-23,08-Aug-23,24-Aug-23,N/A,N/A,N/A,N/A,30-Oct-23,15-Nov-23,N/A,N/A,N/A,N/A
-MS06,IT Upgrade,CPAR,Satvinder Dhillon | Prem Balasingam,N/A,N/A,N/A,N/A,08-Aug-23,24-Aug-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-MS06,IT Upgrade,Call Log,Satvinder Dhillon | Prem Balasingam,N/A,N/A,N/A,N/A,08-Aug-23,24-Aug-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-MS06,IT Upgrade,SOA,Satvinder Dhillon | Prem Balasingam,09-Jan-23,24-Mar-23,02-Jun-23,28-Jun-23,08-Aug-23,24-Aug-23,N/A,N/A,N/A,N/A,30-Oct-23,15-Nov-23,N/A,N/A,N/A,N/A
-MS07,IT Upgrade,CMS,Satvinder Dhillon | Prem Balasingam,N/A,N/A,N/A,N/A,30-Aug-23,15-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-MS07,IT Upgrade,ATLAS,Satvinder Dhillon | Prem Balasingam,N/A,N/A,N/A,N/A,30-Aug-23,15-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-MS07,IT Upgrade,iHUB,Satvinder Dhillon | Prem Balasingam,N/A,N/A,N/A,N/A,30-Aug-23,15-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-MS07,IT Upgrade,CADH,Satvinder Dhillon | Prem Balasingam,N/A,N/A,N/A,N/A,30-Aug-23,15-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-MS07,IT Upgrade,CASSIE,Satvinder Dhillon | Prem Balasingam,N/A,N/A,N/A,N/A,30-Aug-23,15-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-MS07,IT Upgrade,SASSIE,Satvinder Dhillon | Prem Balasingam,N/A,N/A,N/A,N/A,30-Aug-23,15-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-MS07,IT Upgrade,LASSY,Satvinder Dhillon | Prem Balasingam,N/A,N/A,N/A,N/A,30-Aug-23,15-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-MS07,IT Upgrade,Oracle AR & Financials ,Satvinder Dhillon | Prem Balasingam,14-Jun-23,28-Jun-23,04-Aug-23,05-Dec-23,30-Aug-23,15-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-MS14 - TWS,IT Upgrade,LASSY,Satvinder Dhillon,TBC,TBC,30-May-23,27-Nov-23,27-Dec-23,21-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-MS14,IT Upgrade,LASSY,Satvinder Dhillon | Kath Ferris,20-Jan-23,01-Sep-23,20-Jan-23,01-Sep-23,05-Oct-23,15-Nov-23,N/A,N/A,29-Jan-24,09-Feb-24,18-Oct-23,31-Oct-23,N/A,N/A,N/A,N/A
-MS14,IT Upgrade,HH,Satvinder Dhillon | Kath Ferris,N/A,N/A,20-Jan-23,01-Sep-23,05-Oct-23,15-Nov-23,N/A,N/A,N/A,N/A,TBC,TBC,N/A,N/A,N/A,N/A
-MS14,IT Upgrade,CMS,Satvinder Dhillon | Kath Ferris,N/A,N/A,20-Jan-23,01-Sep-23,05-Oct-23,15-Nov-23,N/A,N/A,N/A,N/A,TBC,TBC,N/A,N/A,N/A,N/A
-MS14,IT Upgrade,Website,Satvinder Dhillon | Kath Ferris,N/A,N/A,20-Jan-23,01-Sep-23,05-Oct-23,15-Nov-23,N/A,N/A,N/A,N/A,TBC,TBC,N/A,N/A,N/A,N/A
-MS14,IT Upgrade,FLOSSY,Satvinder Dhillon | Kath Ferris,N/A,N/A,N/A,N/A,05-Oct-23,15-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-MS14,IT Upgrade,CADH,Satvinder Dhillon | Kath Ferris,N/A,N/A,20-Jan-23,01-Sep-23,05-Oct-23,15-Nov-23,N/A,N/A,N/A,N/A,TBC,TBC,N/A,N/A,N/A,N/A
-MS14,IT Upgrade,Numero,Satvinder Dhillon | Kath Ferris,N/A,N/A,20-Jan-23,01-Sep-23,05-Oct-23,15-Nov-23,N/A,N/A,29-Jan-24,09-Feb-24,TBC,TBC,N/A,N/A,N/A,N/A
-MS14,IT Upgrade,TVLEO,Satvinder Dhillon | Kath Ferris,N/A,N/A,20-Jan-23,01-Sep-23,05-Oct-23,15-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-3735b,Test Data Anonymisation Technique Implementation,LASSY,Kevin Pritchard,19-Sep-22,11-Jan-23,24-Apr-23,30-Jun-23,14-Aug-23,29-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-3735b,Test Data Anonymisation Technique Implementation,iHUB,Kevin Pritchard,N/A,N/A,N/A,N/A,14-Aug-23,29-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-3735b,Test Data Anonymisation Technique Implementation,CMS,Kevin Pritchard,N/A,N/A,N/A,N/A,14-Aug-23,29-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-3735b,Test Data Anonymisation Technique Implementation,CADH,Kevin Pritchard,N/A,N/A,N/A,N/A,14-Aug-23,29-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-3735b,Test Data Anonymisation Technique Implementation,Website,Kevin Pritchard,N/A,N/A,N/A,N/A,14-Aug-23,29-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-3735b,Test Data Anonymisation Technique Implementation,Numero,Kevin Pritchard,N/A,N/A,N/A,N/A,14-Aug-23,29-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-4643,Handhelds Replacement P2 SIT Testing,TVLEO,Ben Partington,N/A,N/A,N/A,N/A,18-Apr-23,20-Jun-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-4643,Handhelds Replacement P2 SIT Testing,CASSIE,Ben Partington,N/A,N/A,N/A,N/A,18-Apr-23,20-Jun-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-4643,Handhelds Replacement P2 SIT Testing,Numero,Ben Partington,N/A,N/A,N/A,N/A,18-Apr-23,20-Jun-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-4643,Handhelds Replacement P2 SIT Testing,Oracle AR & Financials ,Ben Partington,N/A,N/A,N/A,N/A,18-Apr-23,20-Jun-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-4643,Handhelds Replacement P2 UAT Testing,TVLEO,Ben Partington,N/A,N/A,N/A,N/A,30-Jun-23,02-Aug-23,29-Sep-23,29-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-4643,Handhelds Replacement P2 UAT Testing,CASSIE,Ben Partington,N/A,N/A,N/A,N/A,30-Jun-23,02-Aug-23,29-Sep-23,29-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-4643,Handhelds Replacement P2 UAT Testing,Numero,Ben Partington,N/A,N/A,N/A,N/A,30-Jun-23,02-Aug-23,29-Sep-23,29-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-4643,Handhelds Replacement P2 UAT Testing,Oracle AR & Financials ,Ben Partington,N/A,N/A,N/A,N/A,30-Jun-23,02-Aug-23,29-Sep-23,29-Sep-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-TBD,Mainframe DR/BCP Testing,LASSY,Maciej Bak,N/A,N/A,N/A,N/A,N/A,N/A,12-Jun-23,16-Jun-23,N/A,N/A,N/A,N/A,12-Jun-23,16-Jun-23,N/A,N/A
-TBD,Mainframe DR/BCP Testing,TVLEO,Maciej Bak,N/A,N/A,N/A,N/A,N/A,N/A,12-Jun-23,16-Jun-23,N/A,N/A,N/A,N/A,12-Jun-23,16-Jun-23,N/A,N/A
-TBD,Public website BCP/DR Test,Website,Maciej Bak,N/A,N/A,N/A,N/A,N/A,N/A,17-Aug-23,21-Aug-23,N/A,N/A,N/A,N/A,17-Aug-23,21-Aug-23,N/A,N/A
-TBD,Legacy Unix Apps DR/BCP Testing,CPAR,Maciej Bak,N/A,N/A,N/A,N/A,N/A,N/A,11-Sep-23,15-Sep-23,N/A,N/A,N/A,N/A,11-Sep-23,15-Sep-23,N/A,N/A
-TBD,Legacy Unix Apps DR/BCP Testing,Over 75 Refunds,Maciej Bak,N/A,N/A,N/A,N/A,N/A,N/A,11-Sep-23,15-Sep-23,N/A,N/A,N/A,N/A,11-Sep-23,15-Sep-23,N/A,N/A
-TBD,Handhelds BCP/DR Test,HH,Maciej Bak,N/A,N/A,N/A,N/A,N/A,N/A,12-Sep-23,13-Sep-23,N/A,N/A,N/A,N/A,12-Sep-23,13-Sep-23,N/A,N/A
-TBD,CMS BCP/DR Test,CMS,Maciej Bak,N/A,N/A,N/A,N/A,N/A,N/A,09-Oct-23,13-Oct-23,N/A,N/A,N/A,N/A,09-Oct-23,13-Oct-23,N/A,N/A
-TBD,Oracle Financials BCP/DR Test,Oracle AR & Financials ,Maciej Bak,N/A,N/A,N/A,N/A,N/A,N/A,16-Oct-23,20-Oct-23,N/A,N/A,N/A,N/A,16-Oct-23,20-Oct-23,N/A,N/A
-4825,Stuck DD Licence Tidy Up & DD Licence Offboarding Automation for Free Licences,LASSY,Steve Spreadborough,N/A,N/A,N/A,N/A,18-Jul-23,24-Jul-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-4825,Stuck DD Licence Tidy Up & DD Licence Offboarding Automation for Free Licences,Numero,Steve Spreadborough,N/A,N/A,N/A,N/A,18-Jul-23,24-Jul-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-OD45,CSAT Numero BO ,Numero,Josh Fischer,N/A,N/A,N/A,N/A,16-Mar-23,23-Jun-23,13-Jun-23,13-Jun-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-OD45,CSAT Complaints,ATLAS,Josh Fischer,N/A,N/A,N/A,N/A,16-Mar-23,23-Jun-23,13-Jun-23,13-Jun-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-5000,NLN Reboot Phase 1,LASSY,Mahant Patel,N/A,N/A,N/A,N/A,TBD,TBD,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-5003,TVL Web - Fix COD eComms Consent,LASSY,Mahant Patel,N/A,N/A,N/A,N/A,TBD,TBD,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-5003,TVL Web - Fix COD eComms Consent,Website,Mahant Patel,N/A,N/A,N/A,N/A,TBD,TBD,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-5001,March Expiries,ATLAS,Max Gruber / Vinay Prasad,N/A,N/A,TBD,TBD,01-Nov-23,09-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-5001,March Expiries,CASSIE,Max Gruber / Vinay Prasad,N/A,N/A,TBD,TBD,01-Nov-23,09-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-5001,March Expiries,SASSIE,Max Gruber / Vinay Prasad,N/A,N/A,TBD,TBD,01-Nov-23,09-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-5001,March Expiries,CMS,Max Gruber / Vinay Prasad,N/A,N/A,TBD,TBD,01-Nov-23,09-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-5001,March Expiries,LASSY,Max Gruber / Vinay Prasad,N/A,N/A,TBD,TBD,01-Nov-23,09-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-5001,March Expiries,Numero,Max Gruber / Vinay Prasad,N/A,N/A,TBD,TBD,01-Nov-23,09-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-5001,March Expiries,TVLEO,Max Gruber / Vinay Prasad,N/A,N/A,TBD,TBD,01-Nov-23,09-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-5001,March Expiries,HH,Max Gruber / Vinay Prasad,N/A,N/A,TBD,TBD,01-Nov-23,09-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-5001,March Expiries,Website,Max Gruber / Vinay Prasad,N/A,N/A,TBD,TBD,01-Nov-23,09-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-4824,Executor Cheques,Numero,Steve Spreadborough,N/A,N/A,N/A,N/A,05-Jun-23,21-Jun-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-4824,Executor Cheques,LASSY,Steve Spreadborough,N/A,N/A,N/A,N/A,05-Jun-23,21-Jun-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-Wind,Windows Security Patch Installation on Public Web Non-Prod / Prod Database Servers ,Website,Praveen Gopalakrishnan,N/A,N/A,14-Jun-23,15-Jun-23,14-Jun-23,15-Jun-23,22-Jun-23,23-Jun-23,N/A,N/A,N/A,N/A,26-Jun-23,27-Jun-23,N/A,N/A
-Wind,Windows Security Patch Installation on Numero servers ,Numero,Praveen Gopalakrishnan,N/A,N/A,15-Jun-23,16-Jun-23,15-Jun-23,16-Jun-23,23-Jun-23,24-Jun-23,15-Jun-23,16-Jun-23,20-Jun-23,21-Jun-23,N/A,N/A,N/A,N/A
-Wind,Windows Security patch installation on Production servers (Cassie/Sassie/PTC),CASSIE,Praveen Gopalakrishnan,N/A,N/A,N/A,N/A,N/A,N/A,25-Jun-23,25-Jun-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-Wind,Windows Security  patch installation on Production servers (Cassie/Sassie/PTC),SASSIE,Praveen Gopalakrishnan,N/A,N/A,N/A,N/A,N/A,N/A,25-Jun-23,25-Jun-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-Wind,Windows Security Patch Installation  on patch installation on Handhelds online payment Production servers,HH,Praveen Gopalakrishnan,N/A,N/A,N/A,N/A,N/A,N/A,28-Jun-23,28-Jun-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-4591,Correction to CMS Welsh Output Files,LASSY,Steve Spreadborough,N/A,N/A,N/A,N/A,09-Nov-23,13-Dec-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-4591,Correction to CMS Welsh Output Files,CMS,Steve Spreadborough,N/A,N/A,N/A,N/A,09-Nov-23,13-Dec-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-4591,Correction to CMS Welsh Output Files,CADH,Steve Spreadborough,N/A,N/A,N/A,N/A,09-Nov-23,13-Dec-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4602,MPCI Strategic Solution,LASSY,John Wrigley / Tiasa Basu,25-Sep-23,30-Nov-23,01-Oct-23,31-Jan-24,14-Feb-24,15-Mar-24,15-Feb-24,15-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4602,MPCI Strategic Solution,Numero,John Wrigley / Tiasa Basu,25-Sep-23,30-Nov-23,01-Oct-23,31-Jan-24,14-Feb-24,15-Mar-24,15-Feb-24,15-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4602,MPCI Strategic Solution,iHUB,John Wrigley / Tiasa Basu,N/A,N/A,01-Oct-23,31-Jan-24,14-Feb-24,15-Mar-24,15-Feb-24,15-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4602,MPCI Strategic Solution,CMS,John Wrigley / Tiasa Basu,N/A,N/A,01-Oct-23,31-Jan-24,14-Feb-24,15-Mar-24,15-Feb-24,15-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4602,MPCI Strategic Solution,SOA12c,John Wrigley / Tiasa Basu,25-Sep-23,30-Nov-23,01-Oct-23,31-Jan-24,14-Feb-24,15-Mar-24,15-Feb-24,15-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4602,MPCI Strategic Solution,Website,John Wrigley / Tiasa Basu,25-Sep-23,30-Nov-23,01-Oct-23,31-Jan-24,14-Feb-24,15-Mar-24,15-Feb-24,15-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4602,MPCI Strategic Solution,CASSIE,John Wrigley / Tiasa Basu,25-Sep-23,30-Nov-23,01-Oct-23,31-Jan-24,14-Feb-24,15-Mar-24,15-Feb-24,15-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4602,MPCI Strategic Solution,SASSIE,John Wrigley / Tiasa Basu,25-Sep-23,30-Nov-23,01-Oct-23,31-Jan-24,14-Feb-24,15-Mar-24,15-Feb-24,15-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MS03,IT Upgrade,CASSIE,Simon Goldberg  | Kath Ferris,04-Aug-23,29-Jul-24,11-Jul-24,03-Sep-24,13-Sep-24,29-Oct-24,N/A,N/A,18-Jun-24,15-Jul-24,29-Nov-24,11-Dec-24,N/A,N/A,29-Nov-24,11-Dec-24
+MS03,IT Upgrade,SASSIE,Simon Goldberg  | Kath Ferris,04-Aug-23,29-Jul-24,11-Jul-24,03-Sep-24,13-Sep-24,29-Oct-24,N/A,N/A,18-Jun-24,15-Jul-24,29-Nov-24,11-Dec-24,N/A,N/A,29-Nov-24,11-Dec-24
+MS03,IT Upgrade,QASSIE,Simon Goldberg  | Kath Ferris,04-Aug-23,29-Jul-24,11-Jul-24,03-Sep-24,13-Sep-24,29-Oct-24,N/A,N/A,18-Jun-24,15-Jul-24,29-Nov-24,11-Dec-24,N/A,N/A,29-Nov-24,11-Dec-24
+MS03,IT Upgrade,LASSY,Simon Goldberg  | Kath Ferris,N/A,N/A,11-Jul-24,03-Sep-24,13-Sep-24,29-Oct-24,N/A,N/A,18-Jun-24,15-Jul-24,29-Nov-24,11-Dec-24,N/A,N/A,29-Nov-24,11-Dec-24
+MS03,IT Upgrade,ATLAS,Simon Goldberg  | Kath Ferris,N/A,N/A,11-Jul-24,03-Sep-24,13-Sep-24,29-Oct-24,N/A,N/A,18-Jun-24,15-Jul-24,29-Nov-24,11-Dec-24,N/A,N/A,29-Nov-24,11-Dec-24
+MS03,IT Upgrade,Numero,Simon Goldberg  | Kath Ferris,N/A,N/A,11-Jul-24,03-Sep-24,13-Sep-24,29-Oct-24,N/A,N/A,18-Jun-24,15-Jul-24,29-Nov-24,11-Dec-24,N/A,N/A,29-Nov-24,11-Dec-24
+MS03,IT Upgrade,SOA12c,Simon Goldberg  | Kath Ferris,N/A,N/A,11-Jul-24,03-Sep-24,13-Sep-24,29-Oct-24,N/A,N/A,18-Jun-24,15-Jul-24,29-Nov-24,11-Dec-24,N/A,N/A,29-Nov-24,11-Dec-24
+MS03,IT Upgrade,Website,Simon Goldberg  | Kath Ferris,N/A,N/A,11-Jul-24,03-Sep-24,13-Sep-24,29-Oct-24,N/A,N/A,18-Jun-24,15-Jul-24,29-Nov-24,11-Dec-24,N/A,N/A,29-Nov-24,11-Dec-24
+MS03,IT Upgrade,HH,Simon Goldberg  | Kath Ferris,N/A,N/A,N/A,N/A,13-Sep-24,29-Oct-24,N/A,N/A,18-Jun-24,15-Jul-24,29-Nov-24,11-Dec-24,N/A,N/A,29-Nov-24,11-Dec-24
+MS03,IT Upgrade,FLOSSY,Simon Goldberg  | Kath Ferris,N/A,N/A,N/A,N/A,13-Sep-24,29-Oct-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MS03,IT Upgrade,CPAR,Simon Goldberg  | Kath Ferris,N/A,N/A,11-Jul-24,03-Sep-24,13-Sep-24,29-Oct-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MS03,IT Upgrade,iHUB,Simon Goldberg  | Kath Ferris,N/A,N/A,11-Jul-24,03-Sep-24,13-Sep-24,29-Oct-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MS06,IT Upgrade,ATLAS,Simon Goldberg  | Prem Balasingam,N/A,N/A,05-Jun-23,17-Nov-23,20-Oct-23,17-Nov-23,N/A,N/A,N/A,N/A,31-Jan-24,22-Feb-24,N/A,N/A,N/A,N/A
+MS06,IT Upgrade,LASSY,Simon Goldberg  | Prem Balasingam,N/A,N/A,05-Jun-23,17-Nov-23,20-Oct-23,17-Nov-23,N/A,N/A,N/A,N/A,31-Jan-24,22-Feb-24,N/A,N/A,N/A,N/A
+MS06,IT Upgrade,iHUB,Simon Goldberg  | Prem Balasingam,N/A,N/A,05-Jun-23,17-Nov-23,20-Oct-23,17-Nov-23,N/A,N/A,N/A,N/A,31-Jan-24,22-Feb-24,N/A,N/A,N/A,N/A
+MS06,IT Upgrade,Website,Simon Goldberg  | Prem Balasingam,N/A,N/A,05-Jun-23,17-Nov-23,20-Oct-23,17-Nov-23,N/A,N/A,N/A,N/A,31-Jan-24,22-Feb-24,N/A,N/A,N/A,N/A
+MS06,IT Upgrade,Numero,Simon Goldberg  | Prem Balasingam,N/A,N/A,05-Jun-23,17-Nov-23,20-Oct-23,17-Nov-23,N/A,N/A,N/A,N/A,31-Jan-24,22-Feb-24,N/A,N/A,N/A,N/A
+MS06,IT Upgrade,CASSIE,Simon Goldberg  | Prem Balasingam,N/A,N/A,05-Jun-23,17-Nov-23,20-Oct-23,17-Nov-23,N/A,N/A,N/A,N/A,31-Jan-24,22-Feb-24,N/A,N/A,N/A,N/A
+MS06,IT Upgrade,SASSIE,Simon Goldberg  | Prem Balasingam,N/A,N/A,05-Jun-23,17-Nov-23,20-Oct-23,17-Nov-23,N/A,N/A,N/A,N/A,31-Jan-24,22-Feb-24,N/A,N/A,N/A,N/A
+MS06,IT Upgrade,CPAR,Simon Goldberg  | Prem Balasingam,N/A,N/A,N/A,N/A,20-Oct-23,17-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MS06,IT Upgrade,Call Log,Simon Goldberg  | Prem Balasingam,N/A,N/A,N/A,N/A,20-Oct-23,17-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MS06,IT Upgrade,SOA12c,Simon Goldberg  | Prem Balasingam,09-Jan-23,24-Mar-23,05-Jun-23,17-Nov-23,20-Oct-23,17-Nov-23,N/A,N/A,N/A,N/A,31-Jan-24,22-Feb-24,N/A,N/A,N/A,N/A
+MS07,IT Upgrade,CMS,Simon Goldberg  | Prem Balasingam,N/A,N/A,N/A,N/A,23-Feb-24,29-Mar-24,N/A,N/A,N/A,N/A,19-Mar-24,15-Apr-24,N/A,N/A,N/A,N/A
+MS07,IT Upgrade,ATLAS,Simon Goldberg  | Prem Balasingam,N/A,N/A,N/A,N/A,23-Feb-24,29-Mar-24,N/A,N/A,N/A,N/A,19-Mar-24,15-Apr-24,N/A,N/A,N/A,N/A
+MS07,IT Upgrade,iHUB,Simon Goldberg  | Prem Balasingam,N/A,N/A,N/A,N/A,23-Feb-24,29-Mar-24,N/A,N/A,N/A,N/A,19-Mar-24,15-Apr-24,N/A,N/A,N/A,N/A
+MS07,IT Upgrade,CADH,Simon Goldberg  | Prem Balasingam,N/A,N/A,N/A,N/A,23-Feb-24,29-Mar-24,N/A,N/A,N/A,N/A,19-Mar-24,15-Apr-24,N/A,N/A,N/A,N/A
+MS07,IT Upgrade,CASSIE,Simon Goldberg  | Prem Balasingam,N/A,N/A,N/A,N/A,23-Feb-24,29-Mar-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MS07,IT Upgrade,SASSIE,Simon Goldberg  | Prem Balasingam,N/A,N/A,N/A,N/A,23-Feb-24,29-Mar-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MS07,IT Upgrade,LASSY,Simon Goldberg  | Prem Balasingam,N/A,N/A,N/A,N/A,23-Feb-24,29-Mar-24,N/A,N/A,N/A,N/A,19-Mar-24,15-Apr-24,N/A,N/A,N/A,N/A
+MS07,IT Upgrade,Oracle AR & Financials ,Simon Goldberg  | Prem Balasingam,11-Jul-23,25-Jul-23,29-Jan-24,19-Feb-24,23-Feb-24,29-Mar-24,N/A,N/A,N/A,N/A,19-Mar-24,15-Apr-24,N/A,N/A,N/A,N/A
+MS11,IT Upgrade,Numero,Simon Goldberg ,N/A,N/A,15-Sep-22,20-May-23,20-Jun-23,14-Jul-23,24-Jun-23,31-Dec-23,26-Sep-22,20-May-23,20-Jun-23,14-Jul-23,24-Jun-23,14-Jul-23,N/A,N/A
+MS14,IT Upgrade,LASSY,Simon Goldberg  | Kath Ferris,N/A,N/A,N/A,N/A,15-Jan-24,01-Feb-24,N/A,N/A,19-Mar-24,03-Apr-24,09-Feb-24,22-Feb-24,N/A,N/A,N/A,N/A
+MS14,IT Upgrade,HH,Simon Goldberg  | Kath Ferris,N/A,N/A,20-Jan-23,10-Nov-23,23-Oct-23,05-Jan-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MS14,IT Upgrade,CMS,Simon Goldberg  | Kath Ferris,N/A,N/A,20-Jan-23,10-Nov-23,23-Oct-23,05-Jan-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MS14,IT Upgrade,Website,Simon Goldberg  | Kath Ferris,N/A,N/A,20-Jan-23,10-Nov-23,23-Oct-23,01-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MS14,IT Upgrade,FLOSSY,Simon Goldberg  | Kath Ferris,N/A,N/A,N/A,N/A,23-Oct-23,05-Jan-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MS14,IT Upgrade,CADH,Simon Goldberg  | Kath Ferris,N/A,N/A,20-Jan-23,10-Nov-23,23-Oct-23,01-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MS14,IT Upgrade,Numero,Simon Goldberg  | Kath Ferris,N/A,N/A,20-Jan-23,10-Nov-23,23-Oct-23,01-Feb-24,N/A,N/A,19-Mar-24,03-Apr-24,N/A,N/A,N/A,N/A,N/A,N/A
+MS14,IT Upgrade,TVLEO,Simon Goldberg  | Kath Ferris,N/A,N/A,20-Jan-23,10-Nov-23,23-Oct-23,05-Jan-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MS14,IT Upgrade,CASSIE,Simon Goldberg  | Kath Ferris,N/A,N/A,N/A,N/A,15-Jan-24,01-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MS14,IT Upgrade,SASSIE,Simon Goldberg  | Kath Ferris,N/A,N/A,N/A,N/A,15-Jan-24,01-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MS14,IT Upgrade,QASSIE,Simon Goldberg  | Kath Ferris,N/A,N/A,N/A,N/A,15-Jan-24,01-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MS14,IT Upgrade,SOA11g,Simon Goldberg  | Kath Ferris,N/A,N/A,N/A,N/A,15-Jan-24,01-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3735b,Test Data Anonymisation Technique Implementation,LASSY,Kevin Pritchard,19-Sep-22,11-Jan-23,24-Apr-23,24-Nov-23,01-Apr-24,15-Apr-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3735b,Test Data Anonymisation Technique Implementation,iHUB,Kevin Pritchard,N/A,N/A,N/A,N/A,30-Nov-23,04-Jan-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3735b,Test Data Anonymisation Technique Implementation,CMS,Kevin Pritchard,N/A,N/A,N/A,N/A,30-Nov-23,04-Jan-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3735b,Test Data Anonymisation Technique Implementation,CADH,Kevin Pritchard,N/A,N/A,N/A,N/A,30-Nov-23,04-Jan-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3735b,Test Data Anonymisation Technique Implementation,Website,Kevin Pritchard,N/A,N/A,N/A,N/A,30-Nov-23,04-Jan-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3735b,Test Data Anonymisation Technique Implementation,Numero,Kevin Pritchard,N/A,N/A,N/A,N/A,30-Nov-23,04-Jan-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3735b,Test Data Anonymisation Technique Implementation,SOA11g,Kevin Pritchard,N/A,N/A,N/A,N/A,30-Nov-23,04-Jan-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4643,Handhelds Replacement P2 UAT Testing,TVLEO,Ben Partington,N/A,N/A,N/A,N/A,30-Jun-23,08-Sep-23,27-Oct-23,27-Oct-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4643,Handhelds Replacement P2 UAT Testing,CASSIE,Ben Partington,N/A,N/A,N/A,N/A,30-Jun-23,08-Sep-23,27-Oct-23,27-Oct-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4643,Handhelds Replacement P2 UAT Testing,Numero,Ben Partington,N/A,N/A,N/A,N/A,30-Jun-23,08-Sep-23,27-Oct-23,27-Oct-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4643,Handhelds Replacement P2 UAT Testing,Oracle AR & Financials ,Ben Partington,N/A,N/A,N/A,N/A,30-Jun-23,08-Sep-23,27-Oct-23,27-Oct-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001,March Expiries - Renewals,CASSIE,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,23-Oct-23,30-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001,March Expiries - Renewals,SASSIE,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,23-Oct-23,30-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001,March Expiries - Renewals,CMS,Max Gruber / Vinay Prasad,N/A,N/A,11-Sep-23,21-Sep-23,23-Oct-23,30-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001,March Expiries - Renewals,LASSY,Max Gruber / Vinay Prasad,15-Aug-23,08-Sep-23,11-Sep-23,21-Sep-23,23-Oct-23,30-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001,March Expiries - Renewals,Numero,Max Gruber / Vinay Prasad,N/A,N/A,11-Sep-23,21-Sep-23,23-Oct-23,30-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001,March Expiries - Renewals,TVLEO,Max Gruber / Vinay Prasad,N/A,N/A,11-Sep-23,21-Sep-23,23-Oct-23,30-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001,March Expiries - Renewals,HH,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,23-Oct-23,30-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001,March Expiries - Renewals,Website,Max Gruber / Vinay Prasad,N/A,N/A,11-Sep-23,21-Sep-23,23-Oct-23,30-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001,March Expiries - Renewals,SOA11g,Max Gruber / Vinay Prasad,N/A,N/A,11-Sep-23,21-Sep-23,23-Oct-23,30-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001d,March Expiries - DD Joiners,CASSIE,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,04-Jan-24,14-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001d,March Expiries - DD Joiners,SASSIE,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,04-Jan-24,14-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001d,March Expiries - DD Joiners,CMS,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,04-Jan-24,14-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001d,March Expiries - DD Joiners,LASSY,Max Gruber / Vinay Prasad,TBC,TBC,TBC,TBC,04-Jan-24,14-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001d,March Expiries - DD Joiners,Numero,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,04-Jan-24,14-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001d,March Expiries - DD Joiners,TVLEO,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,04-Jan-24,14-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001d,March Expiries - DD Joiners,HH,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,04-Jan-24,14-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001d,March Expiries - DD Joiners,Website,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,04-Jan-24,14-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001d,March Expiries - DD Joiners,SOA11g,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,04-Jan-24,14-Feb-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001a,March Expiries - Ad hocs,CASSIE,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,15-Apr-24,22-May-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001a,March Expiries - Ad hocs,SASSIE,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,15-Apr-24,22-May-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001a,March Expiries - Ad hocs,CMS,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,15-Apr-24,22-May-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001a,March Expiries - Ad hocs,LASSY,Max Gruber / Vinay Prasad,TBC,TBC,TBC,TBC,15-Apr-24,22-May-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001a,March Expiries - Ad hocs,Numero,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,15-Apr-24,22-May-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001a,March Expiries - Ad hocs,TVLEO,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,15-Apr-24,22-May-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001a,March Expiries - Ad hocs,HH,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,15-Apr-24,22-May-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001a,March Expiries - Ad hocs,Website,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,15-Apr-24,22-May-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001a,March Expiries - Ad hocs,SOA11g,Max Gruber / Vinay Prasad,N/A,N/A,N/A,N/A,15-Apr-24,22-May-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4591,Correction to CMS Welsh Output Files,LASSY,Steve Spreadborough,N/A,N/A,24-Oct-23,14-Nov-23,30-Nov-23,04-Jan-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4591,Correction to CMS Welsh Output Files,CMS,Steve Spreadborough,N/A,N/A,24-Oct-23,14-Nov-23,30-Nov-23,04-Jan-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4591,Correction to CMS Welsh Output Files,CADH,Steve Spreadborough,N/A,N/A,24-Oct-23,14-Nov-23,30-Nov-23,04-Jan-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4591,Correction to CMS Welsh Output Files,iHUB,Steve Spreadborough,N/A,N/A,24-Oct-23,14-Nov-23,30-Nov-23,04-Jan-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5079,Reinstate Care Record Audit Trail,LASSY,Mahant Patel / Vinay ,14-Aug-23,22-Sep-23,18-Sep-23,06-Oct-23,23-Oct-23,17-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5079,Reinstate Care Record Audit Trail,CMS,Mahant Patel / Vinay ,14-Aug-23,22-Sep-23,18-Sep-23,06-Oct-23,23-Oct-23,17-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5079,Reinstate Care Record Audit Trail,iHUB,Mahant Patel / Vinay ,14-Aug-23,22-Sep-23,18-Sep-23,06-Oct-23,23-Oct-23,17-Nov-23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5192,Licence Fee Change 2024,LASSY,Vinay Prasad / Mohammed Kasam,N/A,N/A,N/A,N/A,05-Feb-24,11-Mar-24,01-Apr-24,01-Apr-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5192,Licence Fee Change 2024,CASSIE,Vinay Prasad / Mohammed Kasam,N/A,N/A,N/A,N/A,05-Feb-24,11-Mar-24,01-Apr-24,01-Apr-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5192,Licence Fee Change 2024,SASSIE,Vinay Prasad / Mohammed Kasam,N/A,N/A,N/A,N/A,05-Feb-24,11-Mar-24,01-Apr-24,01-Apr-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5192,Licence Fee Change 2024,Oracle AR & Financials ,Vinay Prasad / Mohammed Kasam,N/A,N/A,N/A,N/A,05-Feb-24,11-Mar-24,01-Apr-24,01-Apr-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5192,Licence Fee Change 2024,Website,Vinay Prasad / Mohammed Kasam,N/A,N/A,N/A,N/A,05-Feb-24,11-Mar-24,01-Apr-24,01-Apr-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5192,Licence Fee Change 2024,ATLAS,Vinay Prasad / Mohammed Kasam,N/A,N/A,N/A,N/A,05-Feb-24,11-Mar-24,01-Apr-24,01-Apr-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5192,Licence Fee Change 2024,Call Log,Vinay Prasad / Mohammed Kasam,N/A,N/A,N/A,N/A,05-Feb-24,11-Mar-24,01-Apr-24,01-Apr-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5192,Licence Fee Change 2024,Numero,Vinay Prasad / Mohammed Kasam,N/A,N/A,N/A,N/A,05-Feb-24,11-Mar-24,01-Apr-24,01-Apr-24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WIND,Windows Security Patch Installation on Public Web Non-Prod / Prod Database Servers ,Website,Praveen Gopalakrishnan,N/A,N/A,11-Oct-23,12-Oct-23,11-Oct-23,12-Oct-23,23-Oct-23,24-Oct-23,N/A,N/A,N/A,N/A,25-Oct-23,26-Oct-23,N/A,N/A

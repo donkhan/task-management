@@ -24,8 +24,8 @@ public class Main {
 
     private static void all(){
         String[] applications = {"ATLAS", "CADH", "Call Log", "CASSIE", "CMS", "CPAR", "FLOSSY", "HH", "iHUB",
-                "LASSY", "Numero", "Oracle AR & Financials", "Over 75 Refunds", "QASSIE", "SASSIE", "SOA",
-                "TVLEO", "Website"};
+                "LASSY", "Numero", "Oracle AR & Financials", "Over 75 Refunds", "QASSIE", "SASSIE", "SOA11c",
+                "TVLEO", "Website", "SOA12g"};
         solve(applications);
     }
 
@@ -54,12 +54,14 @@ public class Main {
                             String appName = tokenizer.nextToken().trim();
                             if (!appName.equals(applicationName)) continue;
                             tokenizer.nextToken(); // PM
-                            skip(tokenizer, i * 2);
+                            skip(tokenizer, i*2);
                             String startDate = tokenizer.nextToken().trim();
+                            if(!tokenizer.hasMoreTokens()){
+                                continue;
+                            }
                             String endDate = tokenizer.nextToken().trim();
                             if (startDate.equals("N/A") || startDate.equals("TBD")) continue;
                             if (endDate.equals("N/A") || endDate.equals("TBD") || endDate.equals("TBC")) continue;
-
                             if (taskName.equals("TBD")) continue;
                             Task task = new Task(taskName, CalendarUtils.getDateFromString(startDate), CalendarUtils.getDateFromString(endDate));
                             descMap.put(taskName,desc);
