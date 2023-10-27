@@ -30,7 +30,7 @@ public class Main {
     }
 
     private static void solve(String[] applications){
-        String envs[] = { "dev","sit","uat","prod","train","prp","dr","perf"};
+        String envs[] = { "DEV","SIT","UAT","PROD","TRAIN","PRP","DR","PERF"};
         boolean debug = false;
         try {
             String fName = System.getProperty("java.io.tmpdir") + "output.csv";
