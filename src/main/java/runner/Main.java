@@ -126,7 +126,7 @@ public class Main {
             for(String t: cTasks){
                 p = p + t + " & ";
             }
-            String line = suffix + key + ", Conflict with " + p.substring(0, p.length() - 2);
+            String line = suffix + key + ",Conflict with " + p.substring(0, p.length() - 2);
             conflictStream.println(line);
             System.out.println(line);
         }
