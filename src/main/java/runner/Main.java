@@ -106,8 +106,9 @@ public class Main {
                         p = p + tasks.get(y) + "&";
                     }
                 }
-                conflictStream.println(suffix + tasks.get(x) + " Conflict with " + p.substring(0, p.length() - 1));
-                System.out.println(suffix + tasks.get(x) + " Conflict with " + p.substring(0, p.length() - 1));
+                String line = suffix + tasks.get(x) + ", Conflict with " + p.substring(0, p.length() - 1);
+                conflictStream.println(line);
+                System.out.println(line);
             }
         }
     }
