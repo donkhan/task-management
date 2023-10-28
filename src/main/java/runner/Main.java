@@ -96,20 +96,39 @@ public class Main {
     }
 
     private static void printConflicts(List<Output> l, String applicationName, String env, PrintStream conflictStream){
+        Map<String,List<String>> map = new HashMap<>();
         for(int r = 0;r < l.size();r++) {
             List<String> tasks = l.get(r).getTasks();
             for (int x = 0; x < tasks.size(); x++) {
-                String suffix = applicationName + "," + env + ",";
-                String p = "";
+                List<String> cTasks = new ArrayList<>();
+                String taskName = tasks.get(x).trim();
                 for (int y = 0; y < tasks.size(); y++) {
-                    if (tasks.get(x) != tasks.get(y)) {
-                        p = p + tasks.get(y) + "&";
+                    String lName = tasks.get(y).trim();
+                    if (!taskName.equals(lName)) {
+                        cTasks.add(lName);
                     }
                 }
-                String line = suffix + tasks.get(x) + ", Conflict with " + p.substring(0, p.length() - 1);
-                conflictStream.println(line);
-                System.out.println(line);
+                if(map.containsKey(taskName)){
+                    if(map.get(taskName).size() < cTasks.size()){
+                        map.put(taskName,cTasks);
+                    }
+                }else{
+                    map.put(taskName,cTasks);
+                }
             }
+        }
+        String suffix = applicationName + "," + env + ",";
+        Iterator<String> iterator = map.keySet().iterator();
+        while(iterator.hasNext()){
+            String key = iterator.next();
+            List<String> cTasks = map.get(key);
+            String p = "";
+            for(String t: cTasks){
+                p = p + t + " & ";
+            }
+            String line = suffix + key + ", Conflict with " + p.substring(0, p.length() - 2);
+            conflictStream.println(line);
+            System.out.println(line);
         }
     }
 
